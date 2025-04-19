@@ -1,5 +1,8 @@
 ## Hola -Soy WTHerrera- 👋
 
+![Texto alternativo](https://github.com/WTHerrera/WTHerrera/blob/main/image_fx3.jpg?raw=true)
+
+
 <!--
 **WTHerrera/WTHerrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
