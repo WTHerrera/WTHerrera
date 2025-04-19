@@ -1,6 +1,6 @@
 ## Hola -Soy WTHerrera- 👋
 
-![Texto alternativo](https://github.com/WTHerrera/WTHerrera/blob/main/image_fx3.jpg?raw=true)
+![Texto alternativo](https://github.com/WTHerrera/WTHerrera/blob/main/wth-github-f1.jpg?raw=true)
 
 
 <!--
